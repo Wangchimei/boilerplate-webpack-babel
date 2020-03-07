@@ -1,6 +1,6 @@
 # Webpack Babel Boilerplate
 
-This repo is a boilerplate for a simple set-up to start building your own web app with Webpack and Babel.
+This repo is a webpack 4 boilerplate to build your app easily with ES6 (Babel) and live reloading.
 
 ## Requirements
 
