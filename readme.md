@@ -4,9 +4,14 @@ This repo is a boilerplate for a simple set-up to start building your own web ap
 
 ## Requirements
 
-## Feature
+[node.js](https://nodejs.org/en) is needed to be pre-installed
 
-Webpack v4.42.0 Webpack Dev Server v3.10.3 Babel (Core) v7.8.7 Babel Loader v8.0.6
+## Includes
+
+- Webpack v4.42.0
+- Webpack Dev Server v3.10.3
+- Babel (Core) v7.8.7
+- Babel Loader v8.0.6
 
 ## How to start
 
